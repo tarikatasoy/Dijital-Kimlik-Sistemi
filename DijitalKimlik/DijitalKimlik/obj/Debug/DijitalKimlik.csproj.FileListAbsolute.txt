@@ -1,0 +1,16 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\bin\Debug\DijitalKimlik.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\bin\Debug\DijitalKimlik.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\bin\Debug\DijitalKimlik.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.Giris.resources
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.pdb
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.egitim.resources
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.pasaport.resources
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.saglik.resources
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.sicil.resources
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.AnaSayfa.resources
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.kimlikb.resources
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\DijitalKimlik\DijitalKimlik\obj\Debug\DijitalKimlik.Kayit.resources
